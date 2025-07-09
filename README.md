@@ -39,4 +39,8 @@ Updated soon.....
 - Students preparing for technical interviews
 - Anyone who wants to strengthen their core OOPs understanding with Java
 
+## Author
+- Made with by CsVaidik
+- Feel free to contribute, suggest improvements, or ask questions!
+
 
