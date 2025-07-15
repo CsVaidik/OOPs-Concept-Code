@@ -8,6 +8,15 @@ public class Main {
         dog.sleep();
         dog.eat();
         dog.barks();
+
+        Cat cat = new Cat();
+        cat.name = "rupa";
+
+        cat.meow();
+        cat.eat();
+        cat.sleep();
+
+
     }
 
 }
